@@ -19,7 +19,6 @@ public class TestTV {
 		control1.setCanal(50);
 		control1.turnOn();
 		control1.canalUp();
-		control1.volumenUp();
 		
 	    System.out.println(tv2.getCanal());
 	    System.out.println(tv1.getPrecio());
